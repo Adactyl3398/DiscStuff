@@ -1,6 +1,6 @@
 
 {
-	"DiscordMembers": [
+  "DiscordMembers": [
     "Adactyl",
     "Dmsupra85",
     "TtentT",
@@ -25,11 +25,11 @@
     "macwae",
     "HispanicIdiot",
     "Pooble",
-    “BombDeployr1”
-	],
-	"Donators": [
-		"Strycon",
-		"TtentT",
-    ""
-	]
+    “BombDeployr" 
+   ],
+   "Donators": [
+    "Strycon",
+    "TtentT"
+	""
+     ]
 }
