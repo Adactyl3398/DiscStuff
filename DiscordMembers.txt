@@ -25,7 +25,8 @@
     "macwae",
     "HispanicIdiot",
     "Pooble",
-    “BombDeployr" 
+    “BombDeployr",
+    "pitufo1213"
    ],
    "Donators": [
     "Strycon",
