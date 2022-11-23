@@ -1,36 +1,35 @@
-
 {
-  "DiscordMembers": [
-    "Adactyl",
-    "Dmsupra85",
-    "TtentT",
-    "Corgi_shark2",
-    "Vulthrx",
-    "ArthurMorgan36",
-    "AlexanderHille",
-    "Cusowski",
-    "Markzuckerbergissus",
-    "ArkjeeXD",
-    "General_Gojira",
-    "Highland_Gearhop",
-    "Yeetboi-",
-    "CANDlCE",
-    "Hazard2socitea",
-    "ThaNerdGang",
-    "Randomguy247",
-    "Reiwnd",
-    "pianocabbage",
-    "diego2lego",
-    "Edgyusername5",
-    "macwae",
-    "HispanicIdiot",
-    "Pooble",
-    “BombDeployr",
-    "pitufo1213"
-   ],
-   "Donators": [
-    "Strycon",
-    "TtentT"
-	""
-   ]
+	"DiscordMembers": [
+		"Adactyl",
+		"Dmsupra85",
+		"TtentT",
+		"Corgi_shark2",
+		"Vulthrx",
+		"ArthurMorgan36",
+		"AlexanderHille",
+		"Cusowski",
+		"Markzuckerbergissus",
+		"ArkjeeXD",
+		"General_Gojira",
+		"Highland_Gearhop",
+		"Yeetboi-",
+		"CANDlCE",
+		"Hazard2socitea",
+		"ThaNerdGang",
+		"Randomguy247",
+		"Reiwnd",
+		"pianocabbage",
+		"diego2lego",
+		"Edgyusername5",
+		"macwae",
+		"HispanicIdiot",
+		"Pooble", 
+                "BombDeployr",
+		"pitufo1213"
+	],
+	"Donators": [
+		"Strycon",
+		"TtentT",
+		""
+	]
 }
