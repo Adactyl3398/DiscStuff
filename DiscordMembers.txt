@@ -25,11 +25,12 @@
 		"HispanicIdiot",
 		"Pooble", 
                 "BombDeployr",
-		"pitufo1213"
+		"pitufo1213",
+		"Joseph_fallen
 	],
 	"Donators": [
 		"Strycon",
 		"TtentT",
-		""
+		"Joseph_fallen"
 	]
 }
